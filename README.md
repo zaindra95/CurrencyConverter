@@ -3,8 +3,7 @@
 # Currency Converter
 Aplikasi konversi mata uang real-time menggunakan API.
 
-Tampilan Aplikasi
-![Tampilan App](Screenshot 2026-06-27 233146.png)
+![Tampilan App](Screenshot%202026-06-27%20233146.png)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 

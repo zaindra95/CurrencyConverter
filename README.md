@@ -4,7 +4,7 @@
 Aplikasi konversi mata uang real-time menggunakan API.
 
 Tampilan Aplikasi
-![Tampilan App](currencyconverter.jpg)
+![Tampilan App](Screenshot 2026-06-27 233146.png)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
